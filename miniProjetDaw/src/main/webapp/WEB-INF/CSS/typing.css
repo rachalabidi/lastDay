@@ -1,0 +1,23 @@
+@charset "ISO-8859-1";
+
+.body{
+  
+ display: flex;   
+  margin-left:550px; 
+  width:100%; 
+  }
+  .im{
+      text-align:center;
+      margin-left:300px;
+      font-family: cursive;
+      width:100%;
+      font-size:30px;
+      color:#FFF;
+  }
+  .text{
+   
+      border-right:white SOLID ;
+      font-size: 70px;
+      font-family: cursive;
+      color: white;
+}

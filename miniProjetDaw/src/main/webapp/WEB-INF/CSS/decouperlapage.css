@@ -1,0 +1,37 @@
+@charset "ISO-8859-1";
+
+.bk{
+	position: fixed;
+	width:100%;
+	margin-left: 200px;  
+	z-index: -1;
+	
+}
+   
+#entete, #menu, #contenu {
+padding:1px 0;
+	 
+
+}
+#entete {
+text-align:center;
+height: 100px;
+		  
+	
+}
+#main {
+width:100%;
+margin:auto;
+	  
+
+}
+#menu  {
+float:left;
+width:200px;
+	 
+
+}
+#contenu {
+margin-left:245px;
+  position: fixed;
+}
